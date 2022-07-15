@@ -1,7 +1,9 @@
 {
   "expo": {
-    "name": "delivery-app",
+    "name": "Fast",
     "slug": "delivery-app",
+    "privacy" : "public",
+    "description" : "This is a delivery app taking data from a sanity backend",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
